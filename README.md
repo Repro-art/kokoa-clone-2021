@@ -1,3 +1,2 @@
 # Kokoa Clone 2023
-
-Reboot!
+Rebooting! Good~
